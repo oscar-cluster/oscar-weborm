@@ -12,7 +12,7 @@ libapache2-mod-php5
 packman
 rapt
 yume
-liboscar
+liboscar-server
 sudo
 
 WebORM Overview
